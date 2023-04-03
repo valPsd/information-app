@@ -1,5 +1,5 @@
 # information_app
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![alt text](https://play.google.com/store/apps/details?id=com.devrimtuncer.appinfo&hl=en_US)
 A new Flutter project.
 
 ## Getting Started
