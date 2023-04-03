@@ -1,5 +1,5 @@
 # information_app
-(https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 A new Flutter project.
 
 ## Getting Started
